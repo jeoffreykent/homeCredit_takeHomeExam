@@ -22,6 +22,10 @@ public class WeatherController {
 		
 		List<WeatherData> weatherDataList = new ArrayList<WeatherData>();
 		try {
+			
+			//testing push from git
+			
+			
 			weatherDataList = weatherService.retrieveWeatherData();
 		}catch(Exception e) {
 			e.printStackTrace();
