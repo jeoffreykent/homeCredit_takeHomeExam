@@ -20,6 +20,8 @@ public class WeatherController {
 	@RequestMapping("/retrieveWeatherData")
 	public List<WeatherData> retrieveWeather(@RequestParam(value="name", defaultValue="World") String name) {
 		
+		// test comment
+		// test comment for conflict
 		List<WeatherData> weatherDataList = new ArrayList<WeatherData>();
 		try {
 			weatherDataList = weatherService.retrieveWeatherData();

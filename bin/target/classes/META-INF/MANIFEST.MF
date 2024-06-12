@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: jeoff
+Build-Jdk: 17.0.2
+Implementation-Title: SimpleRestWebservice
+Implementation-Version: 0.0.2
+Implementation-Vendor-Id: com.simpleRestWebservice
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SimpleRestWebs
+ ervice/
+Created-By: Maven Integration for Eclipse
+
