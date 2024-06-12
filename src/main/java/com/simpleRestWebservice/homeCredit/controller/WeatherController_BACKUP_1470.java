@@ -25,12 +25,17 @@ public class WeatherController {
 		List<WeatherData> weatherDataList = new ArrayList<WeatherData>();
 		try {
 			
-
+<<<<<<< HEAD
+			//testing push from git
+			//testing
+			//testing
+=======
 			//test
 			//test
 			//test
 			//test
 			//test
+>>>>>>> origin/master
 			
 			
 			weatherDataList = weatherService.retrieveWeatherData();
