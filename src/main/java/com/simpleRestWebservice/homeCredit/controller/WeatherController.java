@@ -24,6 +24,14 @@ public class WeatherController {
 		// test comment for conflict
 		List<WeatherData> weatherDataList = new ArrayList<WeatherData>();
 		try {
+			
+			//test
+			//test
+			//test
+			//test
+			//test
+			
+			
 			weatherDataList = weatherService.retrieveWeatherData();
 		}catch(Exception e) {
 			e.printStackTrace();
